@@ -1,0 +1,65 @@
+text,href
+KIP-1: Introduce BCT Bonds,https://snapshot.box/#/s:klimadao.eth/proposal/QmTvD4PzBCDABipuJvAkYKDBVaVmkN2aFA7aWWdBatzjp4
+KIP-2 KlimaDAO Bug Bounty,https://snapshot.box/#/s:klimadao.eth/proposal/0x9df154d1531aabcc2ed7258833c18e0c39d6f527394b387233a63ff3eabdb010
+KIP-3 Introduce Policy Framework,https://snapshot.box/#/s:klimadao.eth/proposal/0xbe5ba88701e09fad2548ec2aca539b23cc04a5b7bc1961397fc98a0a303c5249
+KIP-4: Introduce wsKLIMA/gOHM bonds,https://snapshot.box/#/s:klimadao.eth/proposal/0x554482501e69eb4da3fcb6c98de54b932e87bd635319224765a5c495d4be7f0f
+KIP-5: Align APY,https://snapshot.box/#/s:klimadao.eth/proposal/0x23ad83944ace8d3676cb44a8dadefe845c2db8a78ba7dd008eaa8d2a0bfb50e5
+KIP-6: Introduce MOSS bonds,https://snapshot.box/#/s:klimadao.eth/proposal/0xb6eb87e78a6ab84fca64e9cbc5b08d9261bc6b7d6dc236c440e19420312412eb
+KIP-8: Introduce KLIMA/USDC bonds,https://snapshot.box/#/s:klimadao.eth/proposal/0xcc99da71fd0aa8dbffddff98cb5f5662193944cef9d604e91f265323c7ddedc8
+KIP-9: Protocol Maturation and APY Alignment,https://snapshot.box/#/s:klimadao.eth/proposal/0xee393ab8954a605556b2fb0ea30aae4dd86c852a9343c8a8fe8b9306aaee785b
+KIP-10: KlimaDAO Compensation Framework,https://snapshot.box/#/s:klimadao.eth/proposal/0xa63e839bbde9160b779adcf53005d15a67c55b9174742e853711cf743834053a
+KIP-11: TCO2 conversion,https://snapshot.box/#/s:klimadao.eth/proposal/0xb6f70f84fbb0f5a24f67f73c30a7966af4f8e3572a2885011c6a0e705fb8178b
+KIP-12: Inverse bonds,https://snapshot.box/#/s:klimadao.eth/proposal/0xa72601fcee690c061a8bba6e717ee74db09f782eb3bbbefeaf27ce1e2dad0a35
+KIP-13: Redeem and Utilize 25% BCT/USDC LP,https://snapshot.box/#/s:klimadao.eth/proposal/0xb81487aac681331c5b2244df47c46765ed5d5c8a2f9a2b583569557dbab11ed9
+KIP-14: Resilience Mode,https://snapshot.box/#/s:klimadao.eth/proposal/0x719a96c6ed896e239b5f60f245213ade7a546c3295b768f932daf43c3b2adf5e
+KIP-15: C3 Alliance & veGovernance,https://snapshot.box/#/s:klimadao.eth/proposal/0xfede6077876de9777b6ecfb4fe60968c2ff5d0ceaa44178c734f957a6a630f03
+KIP-16: Use pKlima to deepen KLIMA/USDC LP,https://snapshot.box/#/s:klimadao.eth/proposal/0xf6c26e1519a017b48e5c9be812a3746eaf4e27872560068cb0e379339adb5e83
+KIP-17: Delegate Retirement Aggregator Inclusions,https://snapshot.box/#/s:klimadao.eth/proposal/0xc8e25eb8aa499b343c521c3ff339923f7743cc76a9b08ca14568c89feab3fff9
+KIP-18: pKLIMA Redemption Framework + Redeem and Utilize 25% BCT/USDC LP,https://snapshot.box/#/s:klimadao.eth/proposal/0x3918360336e5f92e72b57e46a129c674ce738ff33d84d639303f1ca8bc3132b7
+KIP-19: Internal Governance Model,https://snapshot.box/#/s:klimadao.eth/proposal/0x5518f644377aad2bbf2a25296215ad7db257ad983fe67973927daca051213d7b
+KIP-20: Aave & Curve Whitelist,https://snapshot.box/#/s:klimadao.eth/proposal/0x4b57eabc9372a2680df257a5cd1257ac541bed7f82617306162ae6dbeb116707
+KIP-22: Whitelist C3 Gauges,https://snapshot.box/#/s:klimadao.eth/proposal/0xc84e955607baa9860d9f5880f3d23fa0a5321feb73d3390304a5faeac3bf8cae
+KIP-23: New Framework for Supply Expansion,https://snapshot.box/#/s:klimadao.eth/proposal/0xfb993e02d6481161330c3064bbc64cd715eb9814d8bcaaa2a298a0a7aa3d27f1
+KIP-24: Utilize USDC to Extend Development Runway,https://snapshot.box/#/s:klimadao.eth/proposal/0x10b6a151ddf29092d4790f655ba4d7de34e42606b51c572d1b849fae670e3a7a
+KIP-25: Dissolve 50% of Remaining BCT/USDC LP,https://snapshot.box/#/s:klimadao.eth/proposal/0x918abd2ee465726bbe44e26e9afdef705c755d6356d0d13e72e8ddc2847660a4
+KIP-26a: HFC-23 Cleanup Operation,https://snapshot.box/#/s:klimadao.eth/proposal/0x2ae3fce131f98bf22ec9ef306a13e359002eaea0d111328149204dfd9dc9b2e4
+KIP-27: Conservation Phase,https://snapshot.box/#/s:klimadao.eth/proposal/0xe69c1ccf0fe4c9a09586c3bd3263d4e8728698319560070cea1209785a2da462
+KIP-28: Build NCT Liquidity,https://snapshot.box/#/s:klimadao.eth/proposal/0xd358805de0e8730a9f6e48f0f5f1bd83765d1d6c519d5568accf8be3726cf756
+KIP-29: Build UBO and NBO liquidity,https://snapshot.box/#/s:klimadao.eth/proposal/0xe9de3ba110ee4faec24ef39379cdfbdbd36be7b84557e1fb0b31b3f0e033535f
+KIP-30: Reserve USDC to fund operating expenditure,https://snapshot.box/#/s:klimadao.eth/proposal/0xa50ab29cec789ef036da914742ad68020b93369f53b5cc1e78511e6c78a979b9
+KIP-31: Introduce Retirement Bonds,https://snapshot.box/#/s:klimadao.eth/proposal/0x8e4ef40a18b00d40ad041200d3f30ae7f8c015c2d75560a8b100b126fb4cea78
+KIP-32: StarCB EEIMP Project,https://snapshot.box/#/s:klimadao.eth/proposal/0x930b6004d537544bd996fd2e90d07fb1c55e37010cb3cf59d88a20f9bca85036
+KIP-33: Allocate a portion of the retirement aggregator fee to the DAO wallet,https://snapshot.box/#/s:klimadao.eth/proposal/0xa2d8bd41a802c91aefec315923c41e8e724032858c5393e18fcd05272e56d5c7
+KIP-34: Aither ARBO-eligible Carbon Project Opportunity,https://snapshot.box/#/s:klimadao.eth/proposal/0x8340568507c0be97ea937122f6ed238fb1d1167d2f483c9c73474faacc1b2eb8
+KIP-35: Decentralizing KIPs & Snapshot,https://snapshot.box/#/s:klimadao.eth/proposal/0x2cedb818786730e1ecf1a703ccc6ddd1ec3b5d97b3fd05bc178169fe2f094979
+KIP-36: AKR Realignment,https://snapshot.box/#/s:klimadao.eth/proposal/0x28839fab7cf7487c149c2ea5cb69a5ecd40b2ea96d7dc9ead447f4b4b6c70312
+KIP-37: Integrate Coorest’s CCO2 into Carbonmark and Retirement Aggregator,https://snapshot.box/#/s:klimadao.eth/proposal/0x73667d412854816966b4951efac02923cabe9c1b9720d8480467bcc878ae74f4
+KIP-38: DAO Funding Request for H2 2023,https://snapshot.box/#/s:klimadao.eth/proposal/0x81c5b5e398b91969a63752680807d01896a0156f276cc70a610f96d2e29d7904
+KIP-39: ICR Registry Support,https://snapshot.box/#/s:klimadao.eth/proposal/0x1ad86770a117c02e29116cbe27fdd636b9713db959861fb5fa3b4fd24de8f62a
+KIP-40R: Follow-Up to Quadratic Voting Trial,https://snapshot.box/#/s:klimadao.eth/proposal/0xb7514d46a80d48f20390ebfd82631846a2696db03550225b7f9ac3e3bf187d88
+KIP-40: Trial - Progressing KlimaDAO's Governance Framework,https://snapshot.box/#/s:klimadao.eth/proposal/0x1e0ddb862433c186478f8ef930c2c4d74f03f9c5ffed99fcf527479c877ff97d
+KIP-41: Aither - Limenet Mineral Ocean Alkalinity Enhancement,https://snapshot.box/#/s:klimadao.eth/proposal/0x3e705c20f3d53200496daa9c1b75f42826e9418edfd8a1f35eacca49c7a0d4d4
+KIP-42: KlimaDAO x Solid World x SCB - CRISP-C Launch,https://snapshot.box/#/s:klimadao.eth/proposal/0x49292d0b76dbf55b91a2082e1ce280486355c604dc01cfa8bd9e880d58c406ed
+KIP-43: Coorest - Digital Environmental Asset Liquidity Program (DEALP),https://snapshot.box/#/s:klimadao.eth/proposal/0x3d3110e7f197c02e5e216967b587135874eee92914a61a1db46abf08d3861c31
+KIP-44: Aligning KLIMA Supply Expansion with DCM Supply Growth,https://snapshot.box/#/s:klimadao.eth/proposal/0x887fdf4514f9ceacda3b8d38b02ceb81f9c82d5265167c5b63ad13de3a9bf636
+KIP-45: Separate Carbonmark from KlimaDAO and fund expansion strategy,https://snapshot.box/#/s:klimadao.eth/proposal/0xdf77bfc03e2e30d4d1555b436820f699208b3638ae5e328ac1a6abc8dcb79aed
+KIP-47: Integrate Regen Network Credits,https://snapshot.box/#/s:klimadao.eth/proposal/0x4ee8c6aaae20a36a0f2ebf916c34677153db6655483c111cac506645fc6bf6a1
+KIP-49: Liquidity Rebalancing - Redeem a Portion of KLIMA/USDC,https://snapshot.box/#/s:klimadao.eth/proposal/0x597dc7652b5e8af47eb33f0dbd067eda188465e90ea4e22dfd1dbb9f775a4a86
+KIP-51: GRO Foundation ARR Project Funding,https://snapshot.box/#/s:klimadao.eth/proposal/0x40792562a196e935283ffe04528178ef6b59f909a8ac2e549aa3be5915a43c89
+KIP-52: IOT-AI-ML on Blockchain Water Filtration High Quality Project KIP,https://snapshot.box/#/s:klimadao.eth/proposal/0x643baf1eed452d469bae358b614339fea72d5d8b2fb97ef7321347d057b1118c
+KIP-53: Klima Foundation,https://snapshot.box/#/s:klimadao.eth/proposal/0x350e2d9e8dc1041b02f2cce4f56f632382a922c1a72c6008f55c420ea44bf660
+KIP-54: Carbon Credit Evaluation and Acquisition Framework,https://snapshot.box/#/s:klimadao.eth/proposal/0x0a54c4a80a2ba5adac1641e87b2671fe00c093455f65745f4f085331394fbb64
+KIP-55: The Green Ratio,https://snapshot.box/#/s:klimadao.eth/proposal/0xd51cd5b28c4e63d26716dd1c506614fd33a2404d5f28d3f13488c0da8435b8f3
+KIP-56: Presents for the Planet,https://snapshot.box/#/s:klimadao.eth/proposal/0xed4d5e0dd7bb16f5db4473e1a98c6851bad152ff4b5feca5802c02567966dc1b
+KIP-57: BCT Transition,https://snapshot.box/#/s:klimadao.eth/proposal/0xcef69824ff641a9a0951e6de77e2eda724efb335372e98f72e2f7d40fc3fb01b
+"KIP-58: Puro Biochar, Sky East Invest LTD <> KlimaDAO",https://snapshot.box/#/s:klimadao.eth/proposal/0x97cb29a848a7dc09c8b0ff067fecddff487fcff4b845dbad7e417b286c445dbe
+KIP-59: Progress Operating Model and Organizational Structure with Hats Protocol,https://snapshot.box/#/s:klimadao.eth/proposal/0xd3ea09fcc2b55e1c06fa67bcdee6da7711c5120558b017cafdf72529b86e6952
+KIP-60: Carbon Management,https://snapshot.box/#/s:klimadao.eth/proposal/0xce97c62ed846858936e6eb8fcac08dc77e1051df820122804dc2ed09ac79e05b
+KIP-61(a): Klima Project - HECTOR; KlimaDAO<>Aither,https://snapshot.box/#/s:klimadao.eth/proposal/0xf1020bb592a84c2ba6b956b27f54e661ed94f354bfdf4bd1c34fbd509920915b
+KIP-62: Build on Base,https://snapshot.box/#/s:klimadao.eth/proposal/0x4fa95ee86c713f52ba4985c7ac91411663a5f0ce36089994c036b789a1393c1b
+KIP-63: Aerodrome - KLIMA/WETH POL Management,https://snapshot.box/#/s:klimadao.eth/proposal/0x10bb577e79ebb737e0de5cf9dcc5de2f950fd99a054cbf1a1762b1d51a3dd5e3
+KIP-64: Expanding $CHAR,https://snapshot.box/#/s:klimadao.eth/proposal/0x5bf02c5f4519eb00c6d1bdd4a6316e42b8bf3e7ed318902593e3bdcd6d7225da
+KIP-65: Klima 2.0 - Metamorphosis,https://snapshot.box/#/s:klimadao.eth/proposal/0xb7883f386dddcd86fb6b7760a096301337603d91046abc157d982e752796e2e8
+KIP 48: J-Credit pilot activity support & J-Credit integration,https://snapshot.box/#/s:klimadao.eth/proposal/0xef8f795eac0833c247c4fb1ed0dac5015e45cff3ad549ca3811c86e5fef99794
+KIP 21: Add UBO/NBO Bonds,https://snapshot.box/#/s:klimadao.eth/proposal/0x8841e5e8a015ee2a9bc435f6ec76e9259fc32f9ff29456d340a6f5c3ce78bcc6
+KIP 7: KLIMA Moss Liquidity Collaboration,https://snapshot.box/#/s:klimadao.eth/proposal/0x7359c09b24ed01eec218f03c1aa51b6efef4fbd9e454a5acb505fa36c559512b
